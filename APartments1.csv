@@ -1,0 +1,2145 @@
+,location,bedrooms,bathrooms,price,Bed/Bath
+0,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+1,"Kileleshwa, Nairobi",3,4,70000,0.75
+2,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+3,"Near Valley Arcade, Lavington, Nairobi",3,3,80000,1.0
+4,"Kileleshwa, Nairobi",1,1,110000,1.0
+5,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+6,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+8,"Nyali, Mombasa",1,1,5000,1.0
+9,"Muthaiga, Nairobi",4,5,300000,0.8
+10,"Nyali, Mombasa",1,1,5000,1.0
+11,"Westlands, Nairobi",4,2,165000,2.0
+12,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+13,"Shanzu, Mombasa",1,1,55000,1.0
+14,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+16,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+17,"Kilimani, Nairobi",3,3,75000,1.0
+19,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+20,"Westlands, Nairobi",2,2,100000,1.0
+21,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+22,"Kileleshwa, Nairobi",3,4,70000,0.75
+23,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+24,"Near Valley Arcade, Lavington, Nairobi",3,3,80000,1.0
+25,"Kileleshwa, Nairobi",1,1,110000,1.0
+26,"Kileleshwa, Nairobi",1,1,110000,1.0
+27,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+28,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+30,"Muthaiga, Nairobi",4,5,300000,0.8
+31,"Nyali, Mombasa",1,1,5000,1.0
+32,"Westlands, Nairobi",4,2,165000,2.0
+33,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+34,"Shanzu, Mombasa",1,1,55000,1.0
+35,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+37,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+38,"Kilimani, Nairobi",3,3,75000,1.0
+40,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+41,"Westlands, Nairobi",2,2,100000,1.0
+42,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+43,"Kileleshwa, Nairobi",3,4,70000,0.75
+44,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+45,"Near Valley Arcade, Lavington, Nairobi",3,3,80000,1.0
+46,"Kileleshwa, Nairobi",1,1,110000,1.0
+47,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+48,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+50,"Muthaiga, Nairobi",4,5,300000,0.8
+51,"Nyali, Mombasa",1,1,5000,1.0
+52,"Westlands, Nairobi",4,2,165000,2.0
+53,"Westlands, Nairobi",4,2,165000,2.0
+54,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+55,"Shanzu, Mombasa",1,1,55000,1.0
+56,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+58,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+59,"Kilimani, Nairobi",3,3,75000,1.0
+61,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+62,"Westlands, Nairobi",2,2,100000,1.0
+63,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+64,"Kileleshwa, Nairobi",3,4,70000,0.75
+65,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+66,"Near Valley Arcade, Lavington, Nairobi",3,3,80000,1.0
+67,"Kileleshwa, Nairobi",1,1,110000,1.0
+68,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+69,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+71,"Muthaiga, Nairobi",4,5,300000,0.8
+72,"Nyali, Mombasa",1,1,5000,1.0
+73,"Westlands, Nairobi",4,2,165000,2.0
+74,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+75,"Shanzu, Mombasa",1,1,55000,1.0
+76,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+78,"Westlands, Nairobi",4,2,165000,2.0
+79,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+80,"Kilimani, Nairobi",3,3,75000,1.0
+82,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+83,"Westlands, Nairobi",2,2,10000,1.0
+84,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,20000,1.0
+85,"Kileleshwa, Nairobi",3,4,70000,0.75
+86,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+87,"Near Valley Arcade, Lavington, Nairobi",3,3,80000,1.0
+88,"Kileleshwa, Nairobi",1,1,110000,1.0
+89,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+90,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+91,"Shanzu, Mombasa",1,1,55000,1.0
+93,"Muthaiga, Nairobi",4,5,300000,0.8
+94,"Nyali, Mombasa",1,1,5000,1.0
+95,"Westlands, Nairobi",4,2,165000,2.0
+96,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+97,"Shanzu, Mombasa",1,1,55000,1.0
+98,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+100,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+101,"Kilimani, Nairobi",3,3,75000,1.0
+103,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+104,"Westlands, Nairobi",2,2,100000,1.0
+105,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+106,"Kileleshwa, Nairobi",3,4,70000,0.75
+107,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+108,"Near Valley Arcade, Lavington, Nairobi",3,3,80000,1.0
+109,"Kileleshwa, Nairobi",1,1,110000,1.0
+110,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+111,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+113,"Muthaiga, Nairobi",4,5,300000,0.8
+114,"Nyali, Mombasa",1,1,5000,1.0
+115,"Westlands, Nairobi",4,2,165000,2.0
+116,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+117,"Shanzu, Mombasa",1,1,55000,1.0
+118,"Kileleshwa, Nairobi",3,4,70000,0.75
+119,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+121,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+122,"Kilimani, Nairobi",3,3,75000,1.0
+124,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+125,"Westlands, Nairobi",2,2,100000,1.0
+126,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+127,"Kileleshwa, Nairobi",3,4,70000,0.75
+128,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+129,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+130,"Near Valley Arcade, Lavington, Nairobi",3,3,80000,1.0
+131,"Kileleshwa, Nairobi",1,1,110000,1.0
+132,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+133,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+135,"Muthaiga, Nairobi",4,5,300000,0.8
+136,"Nyali, Mombasa",1,1,5000,1.0
+137,"Westlands, Nairobi",4,2,165000,2.0
+138,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+139,"Shanzu, Mombasa",1,1,55000,1.0
+140,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+142,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+143,"Kilimani, Nairobi",3,3,75000,1.0
+145,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+146,"Westlands, Nairobi",2,2,100000,1.0
+147,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+148,"Kileleshwa, Nairobi",3,4,70000,0.75
+149,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+150,"Near Valley Arcade, Lavington, Nairobi",3,3,80000,1.0
+151,"Kileleshwa, Nairobi",1,1,110000,1.0
+152,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+153,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+155,"Muthaiga, Nairobi",4,5,300000,0.8
+156,"Nyali, Mombasa",1,1,5000,1.0
+157,"Westlands, Nairobi",4,2,165000,2.0
+158,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+159,"Shanzu, Mombasa",1,1,55000,1.0
+160,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+162,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+163,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+164,"Kilimani, Nairobi",3,3,75000,1.0
+166,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+167,"Westlands, Nairobi",2,2,100000,1.0
+168,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+169,"Kileleshwa, Nairobi",3,4,70000,0.75
+170,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+171,"Near Valley Arcade, Lavington, Nairobi",3,3,80000,1.0
+172,"Kileleshwa, Nairobi",1,1,110000,1.0
+173,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+174,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+176,"Muthaiga, Nairobi",4,5,300000,0.8
+177,"Nyali, Mombasa",1,1,5000,1.0
+178,"Westlands, Nairobi",4,2,165000,2.0
+179,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+180,"Shanzu, Mombasa",1,1,55000,1.0
+181,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+184,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+185,"Kilimani, Nairobi",3,3,75000,1.0
+187,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+188,"Westlands, Nairobi",2,2,100000,1.0
+189,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+190,"Kileleshwa, Nairobi",3,4,70000,0.75
+191,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+192,"Near Valley Arcade, Lavington, Nairobi",3,3,80000,1.0
+193,"Kileleshwa, Nairobi",1,1,110000,1.0
+194,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+195,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+197,"Muthaiga, Nairobi",4,5,300000,0.8
+198,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+199,"Nyali, Mombasa",1,1,5000,1.0
+200,"Westlands, Nairobi",4,2,165000,2.0
+201,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+202,"Shanzu, Mombasa",1,1,55000,1.0
+203,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+205,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+206,"Kilimani, Nairobi",3,3,75000,1.0
+208,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+209,"Westlands, Nairobi",2,2,100000,1.0
+210,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+211,"Kileleshwa, Nairobi",3,4,70000,0.75
+212,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+213,"Near Valley Arcade, Lavington, Nairobi",3,3,80000,1.0
+214,"Kileleshwa, Nairobi",1,1,110000,1.0
+215,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+216,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+218,"Muthaiga, Nairobi",4,5,300000,0.8
+219,"Nyali, Mombasa",1,1,5000,1.0
+220,"Shanzu, Mombasa",1,1,55000,1.0
+221,"Westlands, Nairobi",4,2,165000,2.0
+222,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+223,"Shanzu, Mombasa",1,1,55000,1.0
+224,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+226,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+227,"Kilimani, Nairobi",3,3,75000,1.0
+229,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+230,"Westlands, Nairobi",2,2,100000,1.0
+231,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+232,"Kileleshwa, Nairobi",3,4,70000,0.75
+233,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+234,"Near Valley Arcade, Lavington, Nairobi",3,3,80000,1.0
+235,"Kileleshwa, Nairobi",1,1,110000,1.0
+236,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+237,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+239,"Muthaiga, Nairobi",4,5,300000,0.8
+240,"Nyali, Mombasa",1,1,5000,1.0
+241,"Westlands, Nairobi",4,2,165000,2.0
+242,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+243,"Shanzu, Mombasa",1,1,55000,1.0
+244,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+246,"Kileleshwa, Nairobi",1,1,110000,1.0
+247,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+248,"Kilimani, Nairobi",3,3,75000,1.0
+250,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+251,"Westlands, Nairobi",2,2,100000,1.0
+252,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+253,"Kileleshwa, Nairobi",3,4,70000,0.75
+254,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+255,"Near Valley Arcade, Lavington, Nairobi",3,3,80000,1.0
+256,"Kileleshwa, Nairobi",1,1,110000,1.0
+257,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+258,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+260,"Muthaiga, Nairobi",4,5,300000,0.8
+261,"Nyali, Mombasa",1,1,5000,1.0
+262,"Westlands, Nairobi",4,2,165000,2.0
+263,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+264,"Shanzu, Mombasa",1,1,55000,1.0
+265,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+266,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+268,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+269,"Kilimani, Nairobi",3,3,75000,1.0
+271,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+272,"Westlands, Nairobi",2,2,100000,1.0
+273,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+274,"Kileleshwa, Nairobi",3,4,70000,0.75
+275,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+276,"Near Valley Arcade, Lavington, Nairobi",3,3,80000,1.0
+277,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+278,"Kileleshwa, Nairobi",1,1,110000,1.0
+279,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+280,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+282,"Muthaiga, Nairobi",4,5,300000,0.8
+283,"Nyali, Mombasa",1,1,5000,1.0
+284,"Westlands, Nairobi",4,2,165000,2.0
+285,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+286,"Shanzu, Mombasa",1,1,55000,1.0
+287,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+289,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+290,"Kilimani, Nairobi",3,3,75000,1.0
+292,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+293,"Westlands, Nairobi",2,2,100000,1.0
+294,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+295,"Kileleshwa, Nairobi",3,4,70000,0.75
+296,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+297,"Near Valley Arcade, Lavington, Nairobi",3,3,80000,1.0
+298,"Kileleshwa, Nairobi",1,1,110000,1.0
+299,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+300,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+302,"Muthaiga, Nairobi",4,5,300000,0.8
+303,"Nyali, Mombasa",1,1,5000,1.0
+304,"Westlands, Nairobi",4,2,165000,2.0
+305,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+306,"Shanzu, Mombasa",1,1,55000,1.0
+307,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+309,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+310,"Kilimani, Nairobi",3,3,75000,1.0
+312,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+313,"Westlands, Nairobi",2,2,100000,1.0
+314,"Near Valley Arcade, Lavington, Nairobi",3,3,80000,1.0
+315,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+316,"Kileleshwa, Nairobi",3,4,70000,0.75
+317,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+318,"Near Valley Arcade, Lavington, Nairobi",3,3,80000,1.0
+319,"Kileleshwa, Nairobi",1,1,110000,1.0
+320,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+321,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+323,"Muthaiga, Nairobi",4,5,300000,0.8
+324,"Nyali, Mombasa",1,1,5000,1.0
+325,"Westlands, Nairobi",4,2,165000,2.0
+326,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+327,"Shanzu, Mombasa",1,1,55000,1.0
+328,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+330,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+331,"Kilimani, Nairobi",3,3,75000,1.0
+333,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+334,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+335,"Westlands, Nairobi",2,2,100000,1.0
+336,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+337,"Kileleshwa, Nairobi",3,4,70000,0.75
+338,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+339,"Near Valley Arcade, Lavington, Nairobi",3,3,80000,1.0
+340,"Kileleshwa, Nairobi",1,1,110000,1.0
+341,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+342,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+344,"Muthaiga, Nairobi",4,5,300000,0.8
+345,"Nyali, Mombasa",1,1,5000,1.0
+346,"Westlands, Nairobi",4,2,165000,2.0
+347,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+348,"Shanzu, Mombasa",1,1,55000,1.0
+349,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+351,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+352,"Kilimani, Nairobi",3,3,75000,1.0
+354,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+355,"Westlands, Nairobi",2,2,100000,1.0
+356,"Kileleshwa, Nairobi",3,4,70000,0.75
+357,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+358,"Kileleshwa, Nairobi",3,4,70000,0.75
+359,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+360,"Near Valley Arcade, Lavington, Nairobi",3,3,80000,1.0
+361,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+362,"Kileleshwa, Nairobi",1,1,110000,1.0
+363,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+364,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+366,"Muthaiga, Nairobi",4,5,300000,0.8
+367,"Nyali, Mombasa",1,1,5000,1.0
+368,"Westlands, Nairobi",4,2,165000,2.0
+369,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+370,"Shanzu, Mombasa",1,1,55000,1.0
+371,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+373,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+374,"Kilimani, Nairobi",3,3,75000,1.0
+376,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+377,"Westlands, Nairobi",2,2,100000,1.0
+378,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+379,"Kileleshwa, Nairobi",3,4,70000,0.75
+380,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+381,"Near Valley Arcade, Lavington, Nairobi",3,3,80000,1.0
+382,"Kileleshwa, Nairobi",1,1,110000,1.0
+383,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+384,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+386,"Muthaiga, Nairobi",4,5,300000,0.8
+387,"Nyali, Mombasa",1,1,5000,1.0
+388,"Westlands, Nairobi",4,2,165000,2.0
+389,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+390,"Shanzu, Mombasa",1,1,55000,1.0
+391,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+393,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+394,"Kilimani, Nairobi",3,3,75000,1.0
+396,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+397,"Westlands, Nairobi",2,2,100000,1.0
+398,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+399,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+400,"Kileleshwa, Nairobi",3,4,70000,0.75
+401,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+402,"Near Valley Arcade, Lavington, Nairobi",3,3,80000,1.0
+403,"Shanzu, Mombasa",1,1,55000,1.0
+404,"Kileleshwa, Nairobi",1,1,110000,1.0
+405,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+406,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+408,"Muthaiga, Nairobi",4,5,300000,0.8
+409,"Nyali, Mombasa",1,1,5000,1.0
+410,"Westlands, Nairobi",4,2,165000,2.0
+411,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+412,"Shanzu, Mombasa",1,1,55000,1.0
+413,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+415,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+416,"Kilimani, Nairobi",3,3,75000,1.0
+418,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+419,"Westlands, Nairobi",2,2,100000,1.0
+420,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+421,"Kileleshwa, Nairobi",3,4,70000,0.75
+422,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+423,"Near Valley Arcade, Lavington, Nairobi",3,3,80000,1.0
+424,"Kileleshwa, Nairobi",1,1,110000,1.0
+425,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+426,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+428,"Muthaiga, Nairobi",4,5,300000,0.8
+429,"Nyali, Mombasa",1,1,5000,1.0
+430,"Westlands, Nairobi",4,2,165000,2.0
+431,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+432,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+433,"Shanzu, Mombasa",1,1,55000,1.0
+434,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+436,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+437,"Kilimani, Nairobi",3,3,75000,1.0
+439,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+440,"Westlands, Nairobi",2,2,100000,1.0
+441,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+442,"Kileleshwa, Nairobi",3,4,70000,0.75
+443,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+444,"Near Valley Arcade, Lavington, Nairobi",3,3,80000,1.0
+445,"Kileleshwa, Nairobi",1,1,110000,1.0
+446,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+447,"Westlands, Nairobi",2,2,100000,1.0
+448,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+450,"Muthaiga, Nairobi",4,5,300000,0.8
+451,"Nyali, Mombasa",1,1,5000,1.0
+452,"Westlands, Nairobi",4,2,165000,2.0
+453,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+454,"Shanzu, Mombasa",1,1,55000,1.0
+455,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+457,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+458,"Kilimani, Nairobi",3,3,75000,1.0
+460,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+461,"Westlands, Nairobi",2,2,100000,1.0
+462,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+463,"Kileleshwa, Nairobi",3,4,70000,0.75
+464,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+465,"Near Valley Arcade, Lavington, Nairobi",3,3,80000,1.0
+466,"Kileleshwa, Nairobi",1,1,110000,1.0
+467,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+468,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+470,"Muthaiga, Nairobi",4,5,300000,0.8
+471,"Nyali, Mombasa",1,1,5000,1.0
+472,"Westlands, Nairobi",4,2,165000,2.0
+473,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+474,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+475,"Shanzu, Mombasa",1,1,55000,1.0
+476,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+478,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+479,"Kilimani, Nairobi",3,3,75000,1.0
+481,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+482,"Westlands, Nairobi",2,2,100000,1.0
+483,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+484,"Kileleshwa, Nairobi",3,4,70000,0.75
+485,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+486,"Near Valley Arcade, Lavington, Nairobi",3,3,80000,1.0
+487,"Kileleshwa, Nairobi",1,1,110000,1.0
+488,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+489,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+491,"Kilimani, Nairobi",3,3,75000,1.0
+492,"Muthaiga, Nairobi",4,5,300000,0.8
+493,"Nyali, Mombasa",1,1,5000,1.0
+494,"Westlands, Nairobi",4,2,165000,2.0
+495,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+496,"Shanzu, Mombasa",1,1,55000,1.0
+497,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+499,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+500,"Kilimani, Nairobi",3,3,75000,1.0
+502,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+503,"Westlands, Nairobi",2,2,100000,1.0
+504,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+505,"Kileleshwa, Nairobi",3,4,70000,0.75
+506,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+507,"Near Valley Arcade, Lavington, Nairobi",3,3,80000,1.0
+508,"Kileleshwa, Nairobi",1,1,110000,1.0
+509,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+510,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+511,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+513,"Muthaiga, Nairobi",4,5,300000,0.8
+514,"Nyali, Mombasa",1,1,5000,1.0
+515,"Westlands, Nairobi",4,2,165000,2.0
+516,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+517,"Shanzu, Mombasa",1,1,55000,1.0
+518,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+520,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+521,"Kilimani, Nairobi",3,3,75000,1.0
+523,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+524,"Westlands, Nairobi",2,2,100000,1.0
+525,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+526,"Kileleshwa, Nairobi",3,4,70000,0.75
+527,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+528,"Near Valley Arcade, Lavington, Nairobi",3,3,80000,1.0
+529,"Kileleshwa, Nairobi",1,1,110000,1.0
+530,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+531,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+533,"Muthaiga, Nairobi",4,5,300000,0.8
+534,"Nyali, Mombasa",1,1,5000,1.0
+535,"Westlands, Nairobi",4,2,165000,2.0
+536,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+537,"Shanzu, Mombasa",1,1,55000,1.0
+538,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+539,"Kileleshwa, Nairobi",3,4,70000,0.75
+541,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+542,"Kilimani, Nairobi",3,3,75000,1.0
+544,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+545,"Westlands, Nairobi",2,2,100000,1.0
+546,"Vihiga road, Kileleshwa, Nairobi",3,3,100000,1.0
+547,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+548,"Kileleshwa, Nairobi",3,4,70000,0.75
+549,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+550,"Kileleshwa, Nairobi",1,1,110000,1.0
+551,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+552,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+554,"Muthaiga, Nairobi",4,5,300000,0.8
+555,"Nyali, Mombasa",1,1,5000,1.0
+556,"Westlands, Nairobi",4,2,165000,2.0
+557,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+558,"Westlands, Nairobi",4,2,165000,2.0
+559,"Shanzu, Mombasa",1,1,55000,1.0
+560,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+562,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+563,"Kilimani, Nairobi",3,3,75000,1.0
+565,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+566,"Westlands, Nairobi",2,2,100000,1.0
+567,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+568,"Kileleshwa, Nairobi",3,4,70000,0.75
+569,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+570,"Near Valley Arcade, Lavington, Nairobi",3,3,80000,1.0
+571,"Kileleshwa, Nairobi",1,1,110000,1.0
+572,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+573,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+574,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+576,"Muthaiga, Nairobi",4,5,300000,0.8
+577,"Nyali, Mombasa",1,1,5000,1.0
+578,"Westlands, Nairobi",4,2,165000,2.0
+579,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+580,"Shanzu, Mombasa",1,1,55000,1.0
+581,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+583,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+584,"Kilimani, Nairobi",3,3,75000,1.0
+586,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+587,"Westlands, Nairobi",2,2,100000,1.0
+588,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+589,"Kileleshwa, Nairobi",3,4,70000,0.75
+590,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+591,"Near Valley Arcade, Lavington, Nairobi",3,3,80000,1.0
+592,"Kileleshwa, Nairobi",1,1,110000,1.0
+593,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+594,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+596,"Muthaiga, Nairobi",4,5,300000,0.8
+597,"Nyali, Mombasa",1,1,5000,1.0
+598,"Westlands, Nairobi",4,2,165000,2.0
+599,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+600,"Shanzu, Mombasa",1,1,55000,1.0
+602,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+604,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+605,"Kilimani, Nairobi",3,3,75000,1.0
+607,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+608,"Westlands, Nairobi",2,2,100000,1.0
+609,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+610,"Kileleshwa, Nairobi",3,4,70000,0.75
+611,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+612,"Near Valley Arcade, Lavington, Nairobi",3,3,80000,1.0
+613,"Kileleshwa, Nairobi",1,1,110000,1.0
+614,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+615,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+617,"Muthaiga, Nairobi",4,5,300000,0.8
+618,"Nyali, Mombasa",1,1,5000,1.0
+619,"Westlands, Nairobi",4,2,165000,2.0
+620,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+621,"Shanzu, Mombasa",1,1,55000,1.0
+622,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+624,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+625,"Kilimani, Nairobi",3,3,75000,1.0
+627,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+628,"Westlands, Nairobi",2,2,100000,1.0
+629,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+630,"Vihiga road, Kileleshwa, Nairobi",3,3,100000,1.0
+631,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+632,"Kileleshwa, Nairobi",3,4,70000,0.75
+633,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+634,"Kileleshwa, Nairobi",1,1,110000,1.0
+635,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+636,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+638,"Muthaiga, Nairobi",4,5,300000,0.8
+639,"Nyali, Mombasa",1,1,5000,1.0
+640,"Westlands, Nairobi",4,2,165000,2.0
+641,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+642,"Shanzu, Mombasa",1,1,55000,1.0
+643,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+644,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+646,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+647,"Kilimani, Nairobi",3,3,75000,1.0
+649,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+650,"Westlands, Nairobi",2,2,100000,1.0
+651,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+652,"Kileleshwa, Nairobi",3,4,70000,0.75
+653,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+654,"Near Valley Arcade, Lavington, Nairobi",3,3,80000,1.0
+655,"Kileleshwa, Nairobi",1,1,110000,1.0
+656,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+657,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+659,"Muthaiga, Nairobi",4,5,300000,0.8
+660,"Nyali, Mombasa",1,1,5000,1.0
+661,"Westlands, Nairobi",4,2,165000,2.0
+662,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+663,"Shanzu, Mombasa",1,1,55000,1.0
+665,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+667,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+668,"Kilimani, Nairobi",3,3,75000,1.0
+670,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+671,"Westlands, Nairobi",2,2,100000,1.0
+672,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+673,"Kileleshwa, Nairobi",3,4,70000,0.75
+674,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+675,"Near Valley Arcade, Lavington, Nairobi",3,3,80000,1.0
+676,"Kileleshwa, Nairobi",1,1,110000,1.0
+677,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+678,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+680,"Muthaiga, Nairobi",4,5,300000,0.8
+681,"Nyali, Mombasa",1,1,5000,1.0
+682,"Westlands, Nairobi",4,2,165000,2.0
+683,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+684,"Shanzu, Mombasa",1,1,55000,1.0
+685,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+687,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+688,"Kilimani, Nairobi",3,3,75000,1.0
+690,"Westlands, Nairobi",4,2,165000,2.0
+691,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+692,"Westlands, Nairobi",2,2,100000,1.0
+693,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+694,"Kileleshwa, Nairobi",3,4,70000,0.75
+695,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+696,"Near Valley Arcade, Lavington, Nairobi",3,3,80000,1.0
+697,"Kileleshwa, Nairobi",1,1,110000,1.0
+698,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+699,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+701,"Muthaiga, Nairobi",4,5,300000,0.8
+702,"Nyali, Mombasa",1,1,5000,1.0
+703,"Westlands, Nairobi",4,2,165000,2.0
+704,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+705,"Shanzu, Mombasa",1,1,55000,1.0
+706,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+708,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+709,"Kilimani, Nairobi",3,3,75000,1.0
+710,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+712,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+713,"Westlands, Nairobi",2,2,100000,1.0
+714,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+715,"Kileleshwa, Nairobi",3,4,70000,0.75
+716,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+717,"Near Valley Arcade, Lavington, Nairobi",3,3,80000,1.0
+718,"Kileleshwa, Nairobi",1,1,110000,1.0
+719,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+720,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+722,"Muthaiga, Nairobi",4,5,300000,0.8
+723,"Nyali, Mombasa",1,1,5000,1.0
+724,"Westlands, Nairobi",4,2,165000,2.0
+725,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+726,"Shanzu, Mombasa",1,1,55000,1.0
+727,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+729,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+730,"Kilimani, Nairobi",3,3,75000,1.0
+732,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+733,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+734,"Westlands, Nairobi",2,2,100000,1.0
+735,"Vihiga road, Kileleshwa, Nairobi",3,3,100000,1.0
+736,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+737,"Kileleshwa, Nairobi",3,4,70000,0.75
+738,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+739,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+740,"Kileleshwa, Nairobi",1,1,110000,1.0
+741,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+742,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+744,"Muthaiga, Nairobi",4,5,300000,0.8
+745,"Nyali, Mombasa",1,1,5000,1.0
+746,"Westlands, Nairobi",4,2,165000,2.0
+747,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+748,"Shanzu, Mombasa",1,1,55000,1.0
+749,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+751,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+752,"Kilimani, Nairobi",3,3,75000,1.0
+754,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+755,"Westlands, Nairobi",2,2,100000,1.0
+756,"Vihiga road, Kileleshwa, Nairobi",3,3,100000,1.0
+757,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+758,"Kileleshwa, Nairobi",3,4,70000,0.75
+759,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+760,"Kileleshwa, Nairobi",1,1,110000,1.0
+761,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+762,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+764,"Muthaiga, Nairobi",4,5,300000,0.8
+765,"Nyali, Mombasa",1,1,5000,1.0
+766,"Westlands, Nairobi",4,2,165000,2.0
+767,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+768,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+769,"Shanzu, Mombasa",1,1,55000,1.0
+770,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+772,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+773,"Kilimani, Nairobi",3,3,75000,1.0
+775,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+776,"Westlands, Nairobi",2,2,100000,1.0
+777,"Vihiga road, Kileleshwa, Nairobi",3,3,100000,1.0
+778,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+779,"Kileleshwa, Nairobi",3,4,70000,0.75
+780,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+781,"Kileleshwa, Nairobi",1,1,110000,1.0
+782,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+783,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+785,"Muthaiga, Nairobi",4,5,300000,0.8
+786,"Nyali, Mombasa",1,1,5000,1.0
+787,"Westlands, Nairobi",4,2,165000,2.0
+788,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+789,"Shanzu, Mombasa",1,1,55000,1.0
+790,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+792,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+793,"Kilimani, Nairobi",3,3,75000,1.0
+794,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+796,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+797,"Westlands, Nairobi",2,2,100000,1.0
+798,"Vihiga road, Kileleshwa, Nairobi",3,3,100000,1.0
+799,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+800,"Kileleshwa, Nairobi",3,4,70000,0.75
+801,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+802,"Kileleshwa, Nairobi",1,1,110000,1.0
+803,"Kileleshwa, Nairobi",3,4,70000,0.75
+804,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+805,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+807,"Muthaiga, Nairobi",4,5,300000,0.8
+808,"Nyali, Mombasa",1,1,5000,1.0
+809,"Westlands, Nairobi",4,2,165000,2.0
+810,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+811,"Shanzu, Mombasa",1,1,55000,1.0
+812,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+814,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+815,"Kilimani, Nairobi",3,3,75000,1.0
+817,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+818,"Westlands, Nairobi",2,2,100000,1.0
+819,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+820,"Kileleshwa, Nairobi",3,4,70000,0.75
+821,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+822,"Near Valley Arcade, Lavington, Nairobi",3,3,80000,1.0
+823,"Kileleshwa, Nairobi",1,1,110000,1.0
+824,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+825,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+827,"Muthaiga, Nairobi",4,5,300000,0.8
+828,"Nyali, Mombasa",1,1,5000,1.0
+829,"Westlands, Nairobi",4,2,165000,2.0
+830,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+831,"Shanzu, Mombasa",1,1,55000,1.0
+832,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+835,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+836,"Kilimani, Nairobi",3,3,75000,1.0
+838,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+839,"Westlands, Nairobi",2,2,100000,1.0
+840,"Vihiga road, Kileleshwa, Nairobi",3,3,100000,1.0
+841,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+842,"Kileleshwa, Nairobi",3,4,70000,0.75
+843,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+844,"Kileleshwa, Nairobi",1,1,110000,1.0
+845,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+846,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+847,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+849,"Muthaiga, Nairobi",4,5,300000,0.8
+850,"Nyali, Mombasa",1,1,5000,1.0
+851,"Westlands, Nairobi",4,2,165000,2.0
+852,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+853,"Shanzu, Mombasa",1,1,55000,1.0
+854,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+856,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+857,"Kilimani, Nairobi",3,3,75000,1.0
+859,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+860,"Westlands, Nairobi",2,2,100000,1.0
+861,"Vihiga road, Kileleshwa, Nairobi",3,3,100000,1.0
+862,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+863,"Kileleshwa, Nairobi",3,4,70000,0.75
+864,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+865,"Kileleshwa, Nairobi",1,1,110000,1.0
+866,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+867,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+869,"Muthaiga, Nairobi",4,5,300000,0.8
+871,"Nyali, Mombasa",1,1,5000,1.0
+872,"Westlands, Nairobi",4,2,165000,2.0
+873,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+874,"Shanzu, Mombasa",1,1,55000,1.0
+875,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+877,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+878,"Kilimani, Nairobi",3,3,75000,1.0
+880,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+881,"Westlands, Nairobi",2,2,100000,1.0
+882,"Vihiga road, Kileleshwa, Nairobi",3,3,100000,1.0
+883,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+884,"Kileleshwa, Nairobi",3,4,70000,0.75
+885,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+886,"Kileleshwa, Nairobi",1,1,110000,1.0
+887,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+888,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+890,"Muthaiga, Nairobi",4,5,300000,0.8
+891,"Nyali, Mombasa",1,1,5000,1.0
+892,"Westlands, Nairobi",4,2,165000,2.0
+893,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+894,"Shanzu, Mombasa",1,1,55000,1.0
+895,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+897,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+898,"Kilimani, Nairobi",3,3,75000,1.0
+900,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+901,"Westlands, Nairobi",2,2,100000,1.0
+903,"Vihiga road, Kileleshwa, Nairobi",3,3,100000,1.0
+904,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+905,"Kileleshwa, Nairobi",3,4,70000,0.75
+906,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+907,"Kileleshwa, Nairobi",1,1,110000,1.0
+908,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+909,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+911,"Muthaiga, Nairobi",4,5,300000,0.8
+912,"Nyali, Mombasa",1,1,5000,1.0
+913,"Westlands, Nairobi",4,2,165000,2.0
+914,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+915,"Shanzu, Mombasa",1,1,55000,1.0
+916,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+917,"Shanzu, Mombasa",1,1,55000,1.0
+919,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+920,"Kilimani, Nairobi",3,3,75000,1.0
+922,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+923,"Westlands, Nairobi",2,2,100000,1.0
+924,"Vihiga road, Kileleshwa, Nairobi",3,3,100000,1.0
+925,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+926,"Kileleshwa, Nairobi",3,4,70000,0.75
+927,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+928,"Kileleshwa, Nairobi",1,1,110000,1.0
+929,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+930,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+931,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+933,"Muthaiga, Nairobi",4,5,300000,0.8
+934,"Nyali, Mombasa",1,1,5000,1.0
+935,"Westlands, Nairobi",4,2,165000,2.0
+936,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+937,"Shanzu, Mombasa",1,1,55000,1.0
+938,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+940,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+941,"Kilimani, Nairobi",3,3,75000,1.0
+943,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+944,"Westlands, Nairobi",2,2,100000,1.0
+945,"Vihiga road, Kileleshwa, Nairobi",3,3,100000,1.0
+946,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+947,"Kileleshwa, Nairobi",3,4,70000,0.75
+948,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+949,"Kileleshwa, Nairobi",1,1,110000,1.0
+950,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+951,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+953,"Muthaiga, Nairobi",4,5,300000,0.8
+954,"Nyali, Mombasa",1,1,5000,1.0
+955,"Westlands, Nairobi",4,2,165000,2.0
+956,"Vihiga road, Kileleshwa, Nairobi",3,3,100000,1.0
+957,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+958,"Shanzu, Mombasa",1,1,55000,1.0
+959,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+961,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+962,"Kilimani, Nairobi",3,3,75000,1.0
+964,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+965,"Westlands, Nairobi",2,2,100000,1.0
+966,"Vihiga road, Kileleshwa, Nairobi",3,3,100000,1.0
+967,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+968,"Kileleshwa, Nairobi",3,4,70000,0.75
+969,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+970,"Kileleshwa, Nairobi",1,1,110000,1.0
+971,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+972,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+974,"Muthaiga, Nairobi",4,5,300000,0.8
+975,"Nyali, Mombasa",1,1,5000,1.0
+976,"Westlands, Nairobi",4,2,165000,2.0
+977,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+978,"Shanzu, Mombasa",1,1,55000,1.0
+979,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+980,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+982,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+983,"Kilimani, Nairobi",3,3,75000,1.0
+985,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+986,"Westlands, Nairobi",2,2,100000,1.0
+987,"Vihiga road, Kileleshwa, Nairobi",3,3,100000,1.0
+988,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+989,"Kileleshwa, Nairobi",3,4,70000,0.75
+990,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+991,"Kileleshwa, Nairobi",1,1,110000,1.0
+992,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+993,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+995,"Muthaiga, Nairobi",4,5,300000,0.8
+996,"Nyali, Mombasa",1,1,5000,1.0
+997,"Westlands, Nairobi",4,2,165000,2.0
+998,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+999,"Shanzu, Mombasa",1,1,55000,1.0
+1000,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+1001,"Kilimani, Nairobi",3,3,75000,1.0
+1003,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+1004,"Kilimani, Nairobi",3,3,75000,1.0
+1006,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+1007,"Westlands, Nairobi",2,2,100000,1.0
+1008,"Vihiga road, Kileleshwa, Nairobi",3,3,100000,1.0
+1009,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+1010,"Kileleshwa, Nairobi",3,4,70000,0.75
+1011,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+1012,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+1013,"Kileleshwa, Nairobi",1,1,110000,1.0
+1014,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+1015,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+1017,"Muthaiga, Nairobi",4,5,300000,0.8
+1018,"Nyali, Mombasa",1,1,5000,1.0
+1019,"Westlands, Nairobi",4,2,165000,2.0
+1020,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+1021,"Shanzu, Mombasa",1,1,55000,1.0
+1022,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+1024,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+1025,"Kilimani, Nairobi",3,3,75000,1.0
+1027,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+1028,"Westlands, Nairobi",2,2,100000,1.0
+1029,"Vihiga road, Kileleshwa, Nairobi",3,3,100000,1.0
+1030,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+1031,"Kileleshwa, Nairobi",3,4,70000,0.75
+1033,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+1034,"Kileleshwa, Nairobi",1,1,110000,1.0
+1035,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+1036,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+1038,"Muthaiga, Nairobi",4,5,300000,0.8
+1039,"Nyali, Mombasa",1,1,5000,1.0
+1040,"Westlands, Nairobi",4,2,165000,2.0
+1041,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+1042,"Shanzu, Mombasa",1,1,55000,1.0
+1043,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+1045,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+1046,"Kilimani, Nairobi",3,3,75000,1.0
+1048,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+1049,"Westlands, Nairobi",2,2,100000,1.0
+1050,"Vihiga road, Kileleshwa, Nairobi",3,3,100000,1.0
+1051,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+1052,"Kileleshwa, Nairobi",3,4,70000,0.75
+1053,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+1054,"Kileleshwa, Nairobi",1,1,110000,1.0
+1055,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+1056,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+1058,"Muthaiga, Nairobi",4,5,300000,0.8
+1059,"Nyali, Mombasa",1,1,5000,1.0
+1060,"Westlands, Nairobi",4,2,165000,2.0
+1061,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+1062,"Shanzu, Mombasa",1,1,55000,1.0
+1063,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+1064,"Westlands, Nairobi",2,2,100000,1.0
+1066,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+1067,"Kilimani, Nairobi",3,3,75000,1.0
+1069,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+1070,"Westlands, Nairobi",2,2,100000,1.0
+1071,"Vihiga road, Kileleshwa, Nairobi",3,3,100000,1.0
+1072,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+1073,"Kileleshwa, Nairobi",3,4,70000,0.75
+1074,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+1075,"Kileleshwa, Nairobi",1,1,110000,1.0
+1076,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+1077,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+1079,"Muthaiga, Nairobi",4,5,300000,0.8
+1080,"Nyali, Mombasa",1,1,5000,1.0
+1081,"Westlands, Nairobi",4,2,165000,2.0
+1082,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+1083,"Shanzu, Mombasa",1,1,55000,1.0
+1084,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+1086,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+1087,"Kileleshwa, Nairobi",1,1,110000,1.0
+1088,"Kilimani, Nairobi",3,3,75000,1.0
+1090,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+1091,"Westlands, Nairobi",2,2,100000,1.0
+1092,"Vihiga road, Kileleshwa, Nairobi",3,3,100000,1.0
+1093,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+1094,"Kileleshwa, Nairobi",3,4,70000,0.75
+1095,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+1096,"Kileleshwa, Nairobi",1,1,110000,1.0
+1097,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+1098,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+1099,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+1101,"Muthaiga, Nairobi",4,5,300000,0.8
+1102,"Nyali, Mombasa",1,1,5000,1.0
+1103,"Westlands, Nairobi",4,2,165000,2.0
+1104,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+1105,"Shanzu, Mombasa",1,1,55000,1.0
+1106,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+1108,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+1109,"Kilimani, Nairobi",3,3,75000,1.0
+1111,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+1112,"Westlands, Nairobi",2,2,100000,1.0
+1113,"Vihiga road, Kileleshwa, Nairobi",3,3,100000,1.0
+1114,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+1115,"Kileleshwa, Nairobi",3,4,70000,0.75
+1116,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+1117,"Kileleshwa, Nairobi",1,1,110000,1.0
+1118,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+1119,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+1121,"Muthaiga, Nairobi",4,5,300000,0.8
+1122,"Nyali, Mombasa",1,1,5000,1.0
+1123,"Westlands, Nairobi",4,2,165000,2.0
+1124,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+1125,"Shanzu, Mombasa",1,1,55000,1.0
+1126,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+1128,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+1129,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+1130,"Kilimani, Nairobi",3,3,75000,1.0
+1132,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+1133,"Westlands, Nairobi",2,2,100000,1.0
+1134,"Vihiga road, Kileleshwa, Nairobi",3,3,100000,1.0
+1135,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+1136,"Kileleshwa, Nairobi",3,4,70000,0.75
+1137,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+1138,"Kilimani, Nairobi",3,3,75000,1.0
+1139,"Kileleshwa, Nairobi",1,1,110000,1.0
+1140,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+1141,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+1143,"Muthaiga, Nairobi",4,5,300000,0.8
+1144,"Nyali, Mombasa",1,1,5000,1.0
+1145,"Westlands, Nairobi",4,2,165000,2.0
+1146,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+1147,"Shanzu, Mombasa",1,1,55000,1.0
+1148,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+1150,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+1151,"Kilimani, Nairobi",3,3,75000,1.0
+1153,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+1154,"Westlands, Nairobi",2,2,100000,1.0
+1155,"Vihiga road, Kileleshwa, Nairobi",3,3,100000,1.0
+1156,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+1157,"Kileleshwa, Nairobi",3,4,70000,0.75
+1158,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+1159,"Kileleshwa, Nairobi",1,1,110000,1.0
+1160,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+1161,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+1163,"Muthaiga, Nairobi",4,5,300000,0.8
+1164,"Nyali, Mombasa",1,1,5000,1.0
+1165,"Westlands, Nairobi",4,2,165000,2.0
+1166,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+1167,"Shanzu, Mombasa",1,1,55000,1.0
+1168,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+1169,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+1171,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+1172,"Kilimani, Nairobi",3,3,75000,1.0
+1174,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+1175,"Westlands, Nairobi",2,2,100000,1.0
+1176,"Vihiga road, Kileleshwa, Nairobi",3,3,100000,1.0
+1178,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+1179,"Kileleshwa, Nairobi",3,4,70000,0.75
+1180,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+1181,"Kileleshwa, Nairobi",1,1,110000,1.0
+1182,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+1183,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+1185,"Muthaiga, Nairobi",4,5,300000,0.8
+1186,"Nyali, Mombasa",1,1,5000,1.0
+1187,"Westlands, Nairobi",4,2,165000,2.0
+1188,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+1189,"Shanzu, Mombasa",1,1,55000,1.0
+1190,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+1192,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+1193,"Kilimani, Nairobi",3,3,75000,1.0
+1195,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+1196,"Westlands, Nairobi",2,2,100000,1.0
+1197,"Vihiga road, Kileleshwa, Nairobi",3,3,100000,1.0
+1198,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+1199,"Kileleshwa, Nairobi",3,4,70000,0.75
+1200,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+1201,"Kileleshwa, Nairobi",1,1,110000,1.0
+1202,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+1203,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+1205,"Muthaiga, Nairobi",4,5,300000,0.8
+1206,"Nyali, Mombasa",1,1,5000,1.0
+1207,"Westlands, Nairobi",4,2,165000,2.0
+1208,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+1209,"Shanzu, Mombasa",1,1,55000,1.0
+1210,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+1212,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+1213,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+1214,"Kilimani, Nairobi",3,3,75000,1.0
+1216,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+1217,"Westlands, Nairobi",2,2,100000,1.0
+1218,"Vihiga road, Kileleshwa, Nairobi",3,3,100000,1.0
+1219,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+1220,"Kileleshwa, Nairobi",3,4,70000,0.75
+1221,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+1222,"Kileleshwa, Nairobi",1,1,110000,1.0
+1223,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+1224,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+1226,"Muthaiga, Nairobi",4,5,300000,0.8
+1227,"Nyali, Mombasa",1,1,5000,1.0
+1228,"Westlands, Nairobi",4,2,165000,2.0
+1229,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+1230,"Shanzu, Mombasa",1,1,55000,1.0
+1231,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+1233,"Westlands, Nairobi",4,2,165000,2.0
+1234,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+1235,"Kilimani, Nairobi",3,3,75000,1.0
+1237,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+1238,"Westlands, Nairobi",2,2,100000,1.0
+1239,"Vihiga road, Kileleshwa, Nairobi",3,3,100000,1.0
+1240,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+1241,"Kileleshwa, Nairobi",3,4,70000,0.75
+1242,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+1243,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+1244,"Kileleshwa, Nairobi",1,1,110000,1.0
+1245,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+1246,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+1248,"Muthaiga, Nairobi",4,5,300000,0.8
+1249,"Nyali, Mombasa",1,1,5000,1.0
+1250,"Westlands, Nairobi",4,2,165000,2.0
+1251,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+1252,"Shanzu, Mombasa",1,1,55000,1.0
+1253,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+1255,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+1256,"Kilimani, Nairobi",3,3,75000,1.0
+1258,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+1259,"Westlands, Nairobi",2,2,100000,1.0
+1260,"Vihiga road, Kileleshwa, Nairobi",3,3,100000,1.0
+1261,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+1262,"Kileleshwa, Nairobi",3,4,70000,0.75
+1263,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+1264,"Kileleshwa, Nairobi",1,1,110000,1.0
+1265,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+1266,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+1268,"Kileleshwa, Nairobi",1,1,110000,1.0
+1269,"Muthaiga, Nairobi",4,5,300000,0.8
+1270,"Nyali, Mombasa",1,1,5000,1.0
+1271,"Westlands, Nairobi",4,2,165000,2.0
+1272,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+1273,"Shanzu, Mombasa",1,1,55000,1.0
+1274,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+1276,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+1277,"Kilimani, Nairobi",3,3,75000,1.0
+1279,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+1280,"Westlands, Nairobi",2,2,100000,1.0
+1281,"Vihiga road, Kileleshwa, Nairobi",3,3,100000,1.0
+1282,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+1283,"Kileleshwa, Nairobi",3,4,70000,0.75
+1284,"Kileleshwa, Nairobi",3,4,70000,0.75
+1285,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+1286,"Kileleshwa, Nairobi",1,1,110000,1.0
+1287,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+1288,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+1290,"Muthaiga, Nairobi",4,5,300000,0.8
+1291,"Nyali, Mombasa",1,1,5000,1.0
+1292,"Westlands, Nairobi",4,2,165000,2.0
+1293,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+1294,"Shanzu, Mombasa",1,1,55000,1.0
+1295,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+1297,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+1298,"Kilimani, Nairobi",3,3,75000,1.0
+1300,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+1301,"Westlands, Nairobi",2,2,100000,1.0
+1302,"Vihiga road, Kileleshwa, Nairobi",3,3,100000,1.0
+1303,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+1304,"Kileleshwa, Nairobi",3,4,70000,0.75
+1305,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+1306,"Kileleshwa, Nairobi",1,1,110000,1.0
+1307,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+1308,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+1309,"Kileleshwa, Nairobi",1,1,110000,1.0
+1311,"Muthaiga, Nairobi",4,5,300000,0.8
+1312,"Nyali, Mombasa",1,1,5000,1.0
+1313,"Westlands, Nairobi",4,2,165000,2.0
+1314,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+1315,"Shanzu, Mombasa",1,1,55000,1.0
+1316,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+1318,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+1319,"Kilimani, Nairobi",3,3,75000,1.0
+1321,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+1322,"Westlands, Nairobi",2,2,100000,1.0
+1323,"Vihiga road, Kileleshwa, Nairobi",3,3,100000,1.0
+1324,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+1325,"Kileleshwa, Nairobi",3,4,70000,0.75
+1326,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+1327,"Kileleshwa, Nairobi",1,1,110000,1.0
+1328,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+1329,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+1331,"Muthaiga, Nairobi",4,5,300000,0.8
+1332,"Nyali, Mombasa",1,1,5000,1.0
+1333,"Westlands, Nairobi",4,2,165000,2.0
+1334,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+1335,"Shanzu, Mombasa",1,1,55000,1.0
+1336,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+1338,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+1339,"Kilimani, Nairobi",3,3,75000,1.0
+1340,"Kilimani, Nairobi",3,3,75000,1.0
+1342,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+1343,"Westlands, Nairobi",2,2,100000,1.0
+1344,"Vihiga road, Kileleshwa, Nairobi",3,3,100000,1.0
+1345,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+1346,"Kileleshwa, Nairobi",3,4,70000,0.75
+1347,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+1348,"Kileleshwa, Nairobi",1,1,110000,1.0
+1349,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+1350,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+1353,"Muthaiga, Nairobi",4,5,300000,0.8
+1354,"Nyali, Mombasa",1,1,5000,1.0
+1355,"Westlands, Nairobi",4,2,165000,2.0
+1356,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+1357,"Shanzu, Mombasa",1,1,55000,1.0
+1358,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+1360,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+1361,"Kilimani, Nairobi",3,3,75000,1.0
+1363,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+1364,"Westlands, Nairobi",2,2,100000,1.0
+1365,"Vihiga road, Kileleshwa, Nairobi",3,3,100000,1.0
+1366,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+1367,"Kileleshwa, Nairobi",3,4,70000,0.75
+1368,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+1369,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+1370,"Kileleshwa, Nairobi",1,1,110000,1.0
+1371,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+1372,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+1374,"Muthaiga, Nairobi",4,5,300000,0.8
+1375,"Nyali, Mombasa",1,1,5000,1.0
+1376,"Westlands, Nairobi",4,2,165000,2.0
+1377,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+1378,"Shanzu, Mombasa",1,1,55000,1.0
+1379,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+1381,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+1382,"Kilimani, Nairobi",3,3,75000,1.0
+1384,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+1385,"Westlands, Nairobi",2,2,100000,1.0
+1386,"Vihiga road, Kileleshwa, Nairobi",3,3,100000,1.0
+1387,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+1388,"Kileleshwa, Nairobi",3,4,70000,0.75
+1389,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+1390,"Kileleshwa, Nairobi",1,1,110000,1.0
+1391,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+1392,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+1394,"Muthaiga, Nairobi",4,5,300000,0.8
+1395,"Nyali, Mombasa",1,1,5000,1.0
+1396,"Westlands, Nairobi",4,2,165000,2.0
+1397,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+1398,"Shanzu, Mombasa",1,1,55000,1.0
+1399,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+1402,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+1403,"Kilimani, Nairobi",3,3,75000,1.0
+1405,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+1406,"Westlands, Nairobi",2,2,100000,1.0
+1407,"Vihiga road, Kileleshwa, Nairobi",3,3,100000,1.0
+1408,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+1409,"Kileleshwa, Nairobi",3,4,70000,0.75
+1410,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+1411,"Kileleshwa, Nairobi",1,1,110000,1.0
+1412,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+1413,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+1415,"Muthaiga, Nairobi",4,5,300000,0.8
+1416,"Nyali, Mombasa",1,1,5000,1.0
+1417,"Westlands, Nairobi",4,2,165000,2.0
+1418,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+1420,"Shanzu, Mombasa",1,1,55000,1.0
+1421,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+1423,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+1424,"Kilimani, Nairobi",3,3,75000,1.0
+1426,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+1427,"Westlands, Nairobi",2,2,100000,1.0
+1428,"Vihiga road, Kileleshwa, Nairobi",3,3,100000,1.0
+1429,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+1430,"Kileleshwa, Nairobi",3,4,70000,0.75
+1431,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+1432,"Kileleshwa, Nairobi",1,1,110000,1.0
+1433,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+1434,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+1435,"Vihiga road, Kileleshwa, Nairobi",3,3,100000,1.0
+1437,"Muthaiga, Nairobi",4,5,300000,0.8
+1438,"Nyali, Mombasa",1,1,5000,1.0
+1439,"Westlands, Nairobi",4,2,165000,2.0
+1440,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+1441,"Shanzu, Mombasa",1,1,55000,1.0
+1442,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+1444,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+1445,"Kilimani, Nairobi",3,3,75000,1.0
+1447,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+1448,"Westlands, Nairobi",2,2,100000,1.0
+1449,"Vihiga road, Kileleshwa, Nairobi",3,3,100000,1.0
+1450,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+1451,"Kileleshwa, Nairobi",3,4,70000,0.75
+1452,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+1453,"Kileleshwa, Nairobi",1,1,110000,1.0
+1454,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+1455,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+1457,"Muthaiga, Nairobi",4,5,300000,0.8
+1458,"Nyali, Mombasa",1,1,5000,1.0
+1459,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+1460,"Westlands, Nairobi",4,2,165000,2.0
+1461,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+1462,"Shanzu, Mombasa",1,1,55000,1.0
+1463,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+1465,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+1466,"Kilimani, Nairobi",3,3,75000,1.0
+1468,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+1469,"Westlands, Nairobi",2,2,100000,1.0
+1470,"Vihiga road, Kileleshwa, Nairobi",3,3,100000,1.0
+1471,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+1472,"Kileleshwa, Nairobi",3,4,70000,0.75
+1473,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+1475,"Kileleshwa, Nairobi",1,1,110000,1.0
+1476,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+1477,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+1479,"Muthaiga, Nairobi",4,5,300000,0.8
+1480,"Nyali, Mombasa",1,1,5000,1.0
+1481,"Westlands, Nairobi",4,2,165000,2.0
+1482,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+1483,"Shanzu, Mombasa",1,1,55000,1.0
+1484,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+1486,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+1487,"Kilimani, Nairobi",3,3,75000,1.0
+1489,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+1490,"Westlands, Nairobi",2,2,100000,1.0
+1491,"Vihiga road, Kileleshwa, Nairobi",3,3,100000,1.0
+1492,"Muthaiga, Nairobi",4,5,300000,0.8
+1493,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+1494,"Kileleshwa, Nairobi",3,4,70000,0.75
+1495,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+1496,"Kileleshwa, Nairobi",1,1,110000,1.0
+1497,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+1498,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+1500,"Muthaiga, Nairobi",4,5,300000,0.8
+1501,"Nyali, Mombasa",1,1,5000,1.0
+1502,"Westlands, Nairobi",4,2,165000,2.0
+1503,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+1504,"Shanzu, Mombasa",1,1,55000,1.0
+1505,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+1507,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+1508,"Kilimani, Nairobi",3,3,75000,1.0
+1510,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+1511,"Westlands, Nairobi",2,2,100000,1.0
+1512,"Vihiga road, Kileleshwa, Nairobi",3,3,100000,1.0
+1513,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+1514,"Kileleshwa, Nairobi",3,4,70000,0.75
+1515,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+1516,"Kileleshwa, Nairobi",1,1,110000,1.0
+1517,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+1518,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+1520,"Muthaiga, Nairobi",4,5,300000,0.8
+1521,"Nyali, Mombasa",1,1,5000,1.0
+1522,"Westlands, Nairobi",4,2,165000,2.0
+1523,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+1524,"Shanzu, Mombasa",1,1,55000,1.0
+1525,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+1527,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+1528,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+1529,"Kilimani, Nairobi",3,3,75000,1.0
+1531,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+1532,"Westlands, Nairobi",2,2,100000,1.0
+1533,"Vihiga road, Kileleshwa, Nairobi",3,3,100000,1.0
+1534,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+1535,"Kileleshwa, Nairobi",3,4,70000,0.75
+1536,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+1537,"Kileleshwa, Nairobi",1,1,110000,1.0
+1538,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+1539,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+1541,"Muthaiga, Nairobi",4,5,300000,0.8
+1542,"Nyali, Mombasa",1,1,5000,1.0
+1543,"Westlands, Nairobi",4,2,165000,2.0
+1544,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+1545,"Shanzu, Mombasa",1,1,55000,1.0
+1546,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+1548,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+1549,"Kilimani, Nairobi",3,3,75000,1.0
+1551,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+1552,"Westlands, Nairobi",2,2,100000,1.0
+1553,"Nyali, Mombasa",1,1,5000,1.0
+1554,"Vihiga road, Kileleshwa, Nairobi",3,3,100000,1.0
+1555,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+1556,"Kileleshwa, Nairobi",3,4,70000,0.75
+1557,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+1558,"Kileleshwa, Nairobi",1,1,110000,1.0
+1559,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+1560,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+1562,"Muthaiga, Nairobi",4,5,300000,0.8
+1563,"Nyali, Mombasa",1,1,5000,1.0
+1564,"Westlands, Nairobi",4,2,165000,2.0
+1565,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+1566,"Shanzu, Mombasa",1,1,55000,1.0
+1567,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+1569,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+1570,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+1571,"Kilimani, Nairobi",3,3,75000,1.0
+1573,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+1574,"Westlands, Nairobi",2,2,100000,1.0
+1575,"Vihiga road, Kileleshwa, Nairobi",3,3,100000,1.0
+1576,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+1577,"Kileleshwa, Nairobi",3,4,70000,0.75
+1578,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+1579,"Kileleshwa, Nairobi",1,1,110000,1.0
+1580,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+1581,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+1583,"Muthaiga, Nairobi",4,5,300000,0.8
+1584,"Nyali, Mombasa",1,1,5000,1.0
+1585,"Westlands, Nairobi",4,2,165000,2.0
+1586,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+1587,"Shanzu, Mombasa",1,1,55000,1.0
+1588,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+1590,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+1591,"Kilimani, Nairobi",3,3,75000,1.0
+1593,"Westlands, Nairobi",4,2,165000,2.0
+1594,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+1595,"Westlands, Nairobi",2,2,100000,1.0
+1596,"Vihiga road, Kileleshwa, Nairobi",3,3,100000,1.0
+1597,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+1598,"Kileleshwa, Nairobi",3,4,70000,0.75
+1599,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+1600,"Kileleshwa, Nairobi",1,1,110000,1.0
+1601,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+1602,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+1604,"Muthaiga, Nairobi",4,5,300000,0.8
+1605,"Nyali, Mombasa",1,1,5000,1.0
+1606,"Westlands, Nairobi",4,2,165000,2.0
+1607,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+1608,"Shanzu, Mombasa",1,1,55000,1.0
+1610,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+1612,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+1613,"Kilimani, Nairobi",3,3,75000,1.0
+1615,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+1616,"Westlands, Nairobi",2,2,100000,1.0
+1617,"Vihiga road, Kileleshwa, Nairobi",3,3,100000,1.0
+1618,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+1619,"Kileleshwa, Nairobi",3,4,70000,0.75
+1620,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+1621,"Kileleshwa, Nairobi",1,1,110000,1.0
+1622,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+1623,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+1625,"Muthaiga, Nairobi",4,5,300000,0.8
+1626,"Nyali, Mombasa",1,1,5000,1.0
+1627,"Westlands, Nairobi",4,2,165000,2.0
+1628,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+1629,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+1630,"Shanzu, Mombasa",1,1,55000,1.0
+1631,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+1633,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+1634,"Kilimani, Nairobi",3,3,75000,1.0
+1636,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+1637,"Westlands, Nairobi",2,2,100000,1.0
+1638,"Vihiga road, Kileleshwa, Nairobi",3,3,100000,1.0
+1639,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+1640,"Kileleshwa, Nairobi",3,4,70000,0.75
+1641,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+1642,"Kileleshwa, Nairobi",1,1,110000,1.0
+1643,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+1644,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+1646,"Muthaiga, Nairobi",4,5,300000,0.8
+1647,"Nyali, Mombasa",1,1,5000,1.0
+1648,"Westlands, Nairobi",4,2,165000,2.0
+1649,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+1650,"Shanzu, Mombasa",1,1,55000,1.0
+1651,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+1652,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+1654,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+1655,"Kilimani, Nairobi",3,3,75000,1.0
+1657,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+1658,"Westlands, Nairobi",2,2,100000,1.0
+1659,"Vihiga road, Kileleshwa, Nairobi",3,3,100000,1.0
+1660,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+1661,"Kileleshwa, Nairobi",3,4,70000,0.75
+1662,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+1663,"Kileleshwa, Nairobi",1,1,110000,1.0
+1664,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+1665,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+1667,"Muthaiga, Nairobi",4,5,300000,0.8
+1668,"Nyali, Mombasa",1,1,5000,1.0
+1669,"Westlands, Nairobi",4,2,165000,2.0
+1670,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+1671,"Shanzu, Mombasa",1,1,55000,1.0
+1672,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+1674,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+1675,"Kilimani, Nairobi",3,3,75000,1.0
+1677,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+1679,"Westlands, Nairobi",2,2,100000,1.0
+1680,"Vihiga road, Kileleshwa, Nairobi",3,3,100000,1.0
+1681,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+1682,"Kileleshwa, Nairobi",3,4,70000,0.75
+1683,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+1684,"Kileleshwa, Nairobi",1,1,110000,1.0
+1685,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+1686,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+1688,"Muthaiga, Nairobi",4,5,300000,0.8
+1689,"Nyali, Mombasa",1,1,5000,1.0
+1690,"Westlands, Nairobi",4,2,165000,2.0
+1691,"Westlands, Nairobi",4,2,165000,2.0
+1692,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+1693,"Shanzu, Mombasa",1,1,55000,1.0
+1694,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+1696,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+1697,"Kilimani, Nairobi",3,3,75000,1.0
+1699,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+1700,"Westlands, Nairobi",2,2,100000,1.0
+1701,"Vihiga road, Kileleshwa, Nairobi",3,3,100000,1.0
+1702,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+1703,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+1704,"Kileleshwa, Nairobi",3,4,70000,0.75
+1705,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+1706,"Kileleshwa, Nairobi",1,1,110000,1.0
+1707,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+1708,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+1710,"Muthaiga, Nairobi",4,5,300000,0.8
+1711,"Nyali, Mombasa",1,1,5000,1.0
+1712,"Westlands, Nairobi",4,2,165000,2.0
+1713,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+1714,"Shanzu, Mombasa",1,1,55000,1.0
+1715,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+1717,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+1718,"Kilimani, Nairobi",3,3,75000,1.0
+1720,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+1721,"Westlands, Nairobi",2,2,100000,1.0
+1722,"Vihiga road, Kileleshwa, Nairobi",3,3,100000,1.0
+1723,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+1724,"Kileleshwa, Nairobi",3,4,70000,0.75
+1725,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+1726,"Kileleshwa, Nairobi",1,1,110000,1.0
+1727,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+1728,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+1730,"Muthaiga, Nairobi",4,5,300000,0.8
+1731,"Nyali, Mombasa",1,1,5000,1.0
+1732,"Westlands, Nairobi",4,2,165000,2.0
+1733,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+1734,"Shanzu, Mombasa",1,1,55000,1.0
+1735,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+1737,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+1738,"Kilimani, Nairobi",3,3,75000,1.0
+1740,"Shanzu, Mombasa",1,1,55000,1.0
+1741,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+1742,"Westlands, Nairobi",2,2,100000,1.0
+1743,"Vihiga road, Kileleshwa, Nairobi",3,3,100000,1.0
+1744,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+1745,"Kileleshwa, Nairobi",3,4,70000,0.75
+1746,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+1747,"Kileleshwa, Nairobi",1,1,110000,1.0
+1748,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+1749,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+1751,"Muthaiga, Nairobi",4,5,300000,0.8
+1752,"Nyali, Mombasa",1,1,5000,1.0
+1753,"Westlands, Nairobi",4,2,165000,2.0
+1754,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+1755,"Shanzu, Mombasa",1,1,55000,1.0
+1756,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+1758,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+1759,"Kilimani, Nairobi",3,3,75000,1.0
+1761,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+1762,"Kileleshwa, Nairobi",3,4,70000,0.75
+1763,"Westlands, Nairobi",2,2,100000,1.0
+1764,"Off Othaya road, Lavington, Nairobi",3,3,125000,1.0
+1765,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+1766,"Kileleshwa, Nairobi",3,4,70000,0.75
+1767,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+1768,"Kileleshwa, Nairobi",1,1,110000,1.0
+1769,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+1770,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+1772,"Muthaiga, Nairobi",4,5,300000,0.8
+1773,"Nyali, Mombasa",1,1,5000,1.0
+1774,"Westlands, Nairobi",4,2,165000,2.0
+1775,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+1776,"Shanzu, Mombasa",1,1,55000,1.0
+1777,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+1779,"Nyali, Mombasa",1,1,5000,1.0
+1780,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+1781,"Kilimani, Nairobi",3,3,75000,1.0
+1783,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+1784,"Westlands, Nairobi",2,2,100000,1.0
+1785,"Vihiga road, Kileleshwa, Nairobi",3,3,100000,1.0
+1786,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+1787,"Kileleshwa, Nairobi",3,4,70000,0.75
+1788,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+1789,"Kileleshwa, Nairobi",1,1,110000,1.0
+1790,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+1791,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+1793,"Muthaiga, Nairobi",4,5,300000,0.8
+1794,"Nyali, Mombasa",1,1,5000,1.0
+1795,"Westlands, Nairobi",4,2,165000,2.0
+1796,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+1797,"Shanzu, Mombasa",1,1,55000,1.0
+1798,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+1800,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+1801,"Kilimani, Nairobi",3,3,75000,1.0
+1803,"Kileleshwa, Nairobi",1,1,110000,1.0
+1804,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+1805,"Westlands, Nairobi",2,2,100000,1.0
+1806,"Vihiga road, Kileleshwa, Nairobi",3,3,100000,1.0
+1807,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+1808,"Kileleshwa, Nairobi",3,4,70000,0.75
+1809,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+1810,"Kileleshwa, Nairobi",1,1,110000,1.0
+1811,"Nyali, Mombasa",1,1,5000,1.0
+1812,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+1813,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+1815,"Muthaiga, Nairobi",4,5,300000,0.8
+1816,"Nyali, Mombasa",1,1,5000,1.0
+1817,"Westlands, Nairobi",4,2,165000,2.0
+1818,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+1819,"Shanzu, Mombasa",1,1,55000,1.0
+1820,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+1822,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+1823,"Kilimani, Nairobi",3,3,75000,1.0
+1825,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+1826,"Westlands, Nairobi",2,2,100000,1.0
+1827,"Vihiga road, Kileleshwa, Nairobi",3,3,100000,1.0
+1828,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+1829,"Kileleshwa, Nairobi",3,4,70000,0.75
+1830,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+1831,"Kileleshwa, Nairobi",1,1,110000,1.0
+1832,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+1833,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+1835,"Muthaiga, Nairobi",4,5,300000,0.8
+1836,"Nyali, Mombasa",1,1,5000,1.0
+1837,"Westlands, Nairobi",4,2,165000,2.0
+1838,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+1839,"Shanzu, Mombasa",1,1,55000,1.0
+1840,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+1842,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+1843,"Kilimani, Nairobi",3,3,75000,1.0
+1845,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+1846,"Muthaiga, Nairobi",4,5,300000,0.8
+1847,"Westlands, Nairobi",2,2,100000,1.0
+1848,"Off Othaya road, Lavington, Nairobi",3,3,125000,1.0
+1849,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+1850,"Kileleshwa, Nairobi",3,4,70000,0.75
+1851,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+1852,"Kileleshwa, Nairobi",1,1,110000,1.0
+1853,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+1854,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+1856,"Muthaiga, Nairobi",4,5,300000,0.8
+1857,"Nyali, Mombasa",1,1,5000,1.0
+1858,"Westlands, Nairobi",4,2,165000,2.0
+1859,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+1860,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+1861,"Shanzu, Mombasa",1,1,55000,1.0
+1862,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+1864,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+1865,"Kilimani, Nairobi",3,3,75000,1.0
+1867,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+1868,"Westlands, Nairobi",2,2,100000,1.0
+1869,"Off Othaya road, Lavington, Nairobi",3,3,125000,1.0
+1870,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+1871,"Kileleshwa, Nairobi",3,4,70000,0.75
+1872,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+1873,"Kileleshwa, Nairobi",1,1,110000,1.0
+1874,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+1875,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+1877,"Muthaiga, Nairobi",4,5,300000,0.8
+1878,"Nyali, Mombasa",1,1,5000,1.0
+1879,"Westlands, Nairobi",4,2,165000,2.0
+1880,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+1881,"Shanzu, Mombasa",1,1,55000,1.0
+1882,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+1884,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+1885,"Kilimani, Nairobi",3,3,75000,1.0
+1887,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+1888,"Westlands, Nairobi",2,2,100000,1.0
+1889,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+1890,"Vihiga road, Kileleshwa, Nairobi",3,3,100000,1.0
+1891,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+1892,"Kileleshwa, Nairobi",3,4,70000,0.75
+1893,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+1894,"Kileleshwa, Nairobi",1,1,110000,1.0
+1895,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+1896,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+1898,"Muthaiga, Nairobi",4,5,300000,0.8
+1899,"Nyali, Mombasa",1,1,5000,1.0
+1900,"Westlands, Nairobi",4,2,165000,2.0
+1901,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+1902,"Shanzu, Mombasa",1,1,55000,1.0
+1903,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+1905,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+1906,"Kilimani, Nairobi",3,3,75000,1.0
+1908,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+1909,"Westlands, Nairobi",2,2,100000,1.0
+1910,"Shanzu, Mombasa",1,1,55000,1.0
+1911,"Off Othaya road, Lavington, Nairobi",3,3,125000,1.0
+1912,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+1913,"Muthaiga, Nairobi",4,5,300000,0.8
+1914,"Kileleshwa, Nairobi",3,4,70000,0.75
+1915,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+1916,"Kileleshwa, Nairobi",1,1,110000,1.0
+1917,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+1918,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+1920,"Muthaiga, Nairobi",4,5,300000,0.8
+1921,"Nyali, Mombasa",1,1,5000,1.0
+1922,"Westlands, Nairobi",4,2,165000,2.0
+1923,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+1924,"Shanzu, Mombasa",1,1,55000,1.0
+1925,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+1927,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+1928,"Kilimani, Nairobi",3,3,75000,1.0
+1930,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+1931,"Westlands, Nairobi",2,2,100000,1.0
+1932,"Off Othaya road, Lavington, Nairobi",3,3,125000,1.0
+1933,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+1934,"Kileleshwa, Nairobi",3,4,70000,0.75
+1935,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+1936,"Kileleshwa, Nairobi",1,1,110000,1.0
+1937,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+1938,"Kileleshwa, Nairobi",3,4,70000,0.75
+1939,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+1941,"Muthaiga, Nairobi",4,5,300000,0.8
+1942,"Nyali, Mombasa",1,1,5000,1.0
+1943,"Westlands, Nairobi",4,2,165000,2.0
+1944,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+1945,"Shanzu, Mombasa",1,1,55000,1.0
+1946,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+1948,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+1949,"Kilimani, Nairobi",3,3,75000,1.0
+1951,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+1952,"Westlands, Nairobi",2,2,100000,1.0
+1953,"Off Othaya road, Lavington, Nairobi",3,3,125000,1.0
+1954,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+1955,"Kileleshwa, Nairobi",3,4,70000,0.75
+1956,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+1957,"Kileleshwa, Nairobi",1,1,110000,1.0
+1958,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+1959,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+1961,"Muthaiga, Nairobi",4,5,300000,0.8
+1962,"Nyali, Mombasa",1,1,5000,1.0
+1963,"Westlands, Nairobi",4,2,165000,2.0
+1964,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+1965,"Shanzu, Mombasa",1,1,55000,1.0
+1966,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+1967,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+1969,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+1970,"Kilimani, Nairobi",3,3,75000,1.0
+1972,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+1973,"Westlands, Nairobi",2,2,100000,1.0
+1974,"Off Othaya road, Lavington, Nairobi",3,3,125000,1.0
+1975,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+1976,"Kileleshwa, Nairobi",3,4,70000,0.75
+1977,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+1978,"Kileleshwa, Nairobi",1,1,110000,1.0
+1979,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+1980,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+1982,"Muthaiga, Nairobi",4,5,300000,0.8
+1983,"Nyali, Mombasa",1,1,5000,1.0
+1984,"Westlands, Nairobi",4,2,165000,2.0
+1985,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+1986,"Shanzu, Mombasa",1,1,55000,1.0
+1987,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+1989,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+1990,"Westlands, Nairobi",4,2,165000,2.0
+1991,"Kilimani, Nairobi",3,3,75000,1.0
+1993,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+1994,"Westlands, Nairobi",2,2,100000,1.0
+1995,"Off Othaya road, Lavington, Nairobi",3,3,125000,1.0
+1996,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+1997,"Kileleshwa, Nairobi",3,4,70000,0.75
+1998,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+1999,"Kileleshwa, Nairobi",1,1,110000,1.0
+2000,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+2001,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+2003,"Muthaiga, Nairobi",4,5,300000,0.8
+2004,"Nyali, Mombasa",1,1,5000,1.0
+2005,"Westlands, Nairobi",4,2,165000,2.0
+2006,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+2007,"Shanzu, Mombasa",1,1,55000,1.0
+2008,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+2010,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+2011,"Kilimani, Nairobi",3,3,75000,1.0
+2013,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+2014,"Westlands, Nairobi",2,2,100000,1.0
+2015,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+2016,"Off Othaya road, Lavington, Nairobi",3,3,125000,1.0
+2017,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+2018,"Kileleshwa, Nairobi",3,4,70000,0.75
+2019,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+2020,"Kileleshwa, Nairobi",1,1,110000,1.0
+2021,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+2022,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+2024,"Muthaiga, Nairobi",4,5,300000,0.8
+2025,"Nyali, Mombasa",1,1,5000,1.0
+2026,"Westlands, Nairobi",4,2,165000,2.0
+2027,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+2028,"Shanzu, Mombasa",1,1,55000,1.0
+2029,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+2031,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+2032,"Kilimani, Nairobi",3,3,75000,1.0
+2034,"Muthaiga, Nairobi",4,5,300000,0.8
+2035,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+2036,"Westlands, Nairobi",2,2,100000,1.0
+2037,"Off Othaya road, Lavington, Nairobi",3,3,125000,1.0
+2038,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+2039,"Kileleshwa, Nairobi",3,4,70000,0.75
+2040,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+2041,"Kileleshwa, Nairobi",1,1,110000,1.0
+2042,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+2043,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+2045,"Muthaiga, Nairobi",4,5,300000,0.8
+2046,"Nyali, Mombasa",1,1,5000,1.0
+2047,"Westlands, Nairobi",4,2,165000,2.0
+2048,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+2049,"Shanzu, Mombasa",1,1,55000,1.0
+2050,"Shanzu, Mombasa",1,1,55000,1.0
+2051,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+2053,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+2054,"Kilimani, Nairobi",3,3,75000,1.0
+2056,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+2057,"Westlands, Nairobi",2,2,100000,1.0
+2058,"Off Othaya road, Lavington, Nairobi",3,3,125000,1.0
+2059,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+2060,"Kileleshwa, Nairobi",3,4,70000,0.75
+2061,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+2062,"Kileleshwa, Nairobi",1,1,110000,1.0
+2063,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+2064,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+2066,"Muthaiga, Nairobi",4,5,300000,0.8
+2067,"Nyali, Mombasa",1,1,5000,1.0
+2068,"Westlands, Nairobi",4,2,165000,2.0
+2069,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+2070,"Shanzu, Mombasa",1,1,55000,1.0
+2071,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+2073,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+2074,"Kilimani, Nairobi",3,3,75000,1.0
+2076,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+2077,"Westlands, Nairobi",2,2,100000,1.0
+2078,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+2079,"Off Othaya road, Lavington, Nairobi",3,3,125000,1.0
+2080,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+2081,"Kileleshwa, Nairobi",3,4,70000,0.75
+2082,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+2083,"Kileleshwa, Nairobi",1,1,110000,1.0
+2084,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+2085,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+2086,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+2088,"Muthaiga, Nairobi",4,5,300000,0.8
+2089,"Nyali, Mombasa",1,1,5000,1.0
+2090,"Westlands, Nairobi",4,2,165000,2.0
+2091,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+2092,"Shanzu, Mombasa",1,1,55000,1.0
+2093,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+2095,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+2096,"Kilimani, Nairobi",3,3,75000,1.0
+2098,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+2099,"Westlands, Nairobi",2,2,100000,1.0
+2100,"Off Othaya road, Lavington, Nairobi",3,3,125000,1.0
+2101,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+2102,"Kileleshwa, Nairobi",3,4,70000,0.75
+2103,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+2104,"Kileleshwa, Nairobi",1,1,110000,1.0
+2105,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+2106,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+2108,"Muthaiga, Nairobi",4,5,300000,0.8
+2109,"Kileleshwa, Nairobi",1,1,110000,1.0
+2110,"Nyali, Mombasa",1,1,5000,1.0
+2111,"Westlands, Nairobi",4,2,165000,2.0
+2112,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+2113,"Shanzu, Mombasa",1,1,55000,1.0
+2114,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+2116,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+2117,"Kilimani, Nairobi",3,3,75000,1.0
+2119,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+2120,"Westlands, Nairobi",2,2,100000,1.0
+2121,"Jabavu court, Kilimani, Nairobi",3,3,80000,1.0
+2122,"Nyali, Mombasa",1,1,5000,1.0
+2123,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+2124,"Kileleshwa, Nairobi",3,4,70000,0.75
+2125,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+2126,"Kileleshwa, Nairobi",1,1,110000,1.0
+2127,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+2128,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+2130,"Muthaiga, Nairobi",4,5,300000,0.8
+2131,"Nyali, Mombasa",1,1,5000,1.0
+2132,"Westlands, Nairobi",4,2,165000,2.0
+2133,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+2134,"Shanzu, Mombasa",1,1,55000,1.0
+2135,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+2137,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+2138,"Kilimani, Nairobi",3,3,75000,1.0
+2140,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+2141,"Westlands, Nairobi",2,2,100000,1.0
+2142,"Off Othaya road, Lavington, Nairobi",3,3,125000,1.0
+2143,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+2144,"Kileleshwa, Nairobi",3,4,70000,0.75
+2145,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+2146,"Kileleshwa, Nairobi",1,1,110000,1.0
+2147,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+2148,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+2150,"Muthaiga, Nairobi",4,5,300000,0.8
+2151,"Nyali, Mombasa",1,1,5000,1.0
+2152,"Westlands, Nairobi",4,2,165000,2.0
+2153,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+2154,"Shanzu, Mombasa",1,1,55000,1.0
+2155,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+2156,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+2158,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+2159,"Kilimani, Nairobi",3,3,75000,1.0
+2161,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+2162,"Westlands, Nairobi",2,2,100000,1.0
+2163,"Off Othaya road, Lavington, Nairobi",3,3,125000,1.0
+2164,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+2165,"Kileleshwa, Nairobi",3,4,70000,0.75
+2166,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+2167,"Kileleshwa, Nairobi",1,1,110000,1.0
+2168,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+2169,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+2171,"Muthaiga, Nairobi",4,5,300000,0.8
+2172,"Nyali, Mombasa",1,1,5000,1.0
+2173,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+2174,"Westlands, Nairobi",4,2,165000,2.0
+2175,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+2176,"Shanzu, Mombasa",1,1,55000,1.0
+2177,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+2179,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+2180,"Kilimani, Nairobi",3,3,75000,1.0
+2182,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+2183,"Westlands, Nairobi",2,2,100000,1.0
+2184,"Off Othaya road, Lavington, Nairobi",3,3,125000,1.0
+2185,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+2186,"Kileleshwa, Nairobi",3,4,70000,0.75
+2187,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+2188,"Kileleshwa, Nairobi",1,1,110000,1.0
+2189,"Shanzu, Mombasa",1,1,55000,1.0
+2190,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+2191,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+2193,"Muthaiga, Nairobi",4,5,300000,0.8
+2194,"Nyali, Mombasa",1,1,5000,1.0
+2195,"Westlands, Nairobi",4,2,165000,2.0
+2196,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+2197,"Shanzu, Mombasa",1,1,55000,1.0
+2198,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+2200,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+2201,"Kilimani, Nairobi",3,3,75000,1.0
+2203,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+2204,"Westlands, Nairobi",2,2,100000,1.0
+2205,"Jabavu court, Kilimani, Nairobi",3,3,80000,1.0
+2206,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+2207,"Kileleshwa, Nairobi",3,4,70000,0.75
+2208,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+2209,"Kileleshwa, Nairobi",1,1,110000,1.0
+2210,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+2211,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+2213,"Muthaiga, Nairobi",4,5,300000,0.8
+2214,"Nyali, Mombasa",1,1,5000,1.0
+2215,"Westlands, Nairobi",4,2,165000,2.0
+2216,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+2217,"Shanzu, Mombasa",1,1,55000,1.0
+2218,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+2219,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+2221,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+2222,"Kilimani, Nairobi",3,3,75000,1.0
+2224,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+2225,"Westlands, Nairobi",2,2,100000,1.0
+2226,"Off Othaya road, Lavington, Nairobi",3,3,125000,1.0
+2227,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+2228,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+2229,"Kileleshwa, Nairobi",3,4,70000,0.75
+2230,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+2231,"Kileleshwa, Nairobi",1,1,110000,1.0
+2232,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+2233,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+2235,"Muthaiga, Nairobi",4,5,300000,0.8
+2236,"Nyali, Mombasa",1,1,5000,1.0
+2237,"Westlands, Nairobi",4,2,165000,2.0
+2238,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+2239,"Shanzu, Mombasa",1,1,55000,1.0
+2240,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+2242,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+2243,"Kilimani, Nairobi",3,3,75000,1.0
+2245,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+2246,"Westlands, Nairobi",2,2,100000,1.0
+2247,"Off Othaya road, Lavington, Nairobi",3,3,125000,1.0
+2248,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+2249,"Kileleshwa, Nairobi",3,4,70000,0.75
+2250,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+2251,"Westlands, Nairobi",4,2,165000,2.0
+2252,"Kileleshwa, Nairobi",1,1,110000,1.0
+2253,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+2254,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+2256,"Muthaiga, Nairobi",4,5,300000,0.8
+2257,"Nyali, Mombasa",1,1,5000,1.0
+2258,"Westlands, Nairobi",4,2,165000,2.0
+2259,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+2260,"Shanzu, Mombasa",1,1,55000,1.0
+2261,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+2263,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+2264,"Kilimani, Nairobi",3,3,75000,1.0
+2266,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+2267,"Westlands, Nairobi",2,2,100000,1.0
+2268,"Off Othaya road, Lavington, Nairobi",3,3,125000,1.0
+2269,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+2270,"Kileleshwa, Nairobi",3,4,70000,0.75
+2271,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+2272,"Kileleshwa, Nairobi",1,1,110000,1.0
+2273,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+2274,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+2275,"Kileleshwa, Nairobi",3,4,70000,0.75
+2277,"Muthaiga, Nairobi",4,5,300000,0.8
+2278,"Nyali, Mombasa",1,1,5000,1.0
+2279,"Westlands, Nairobi",4,2,165000,2.0
+2280,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+2281,"Shanzu, Mombasa",1,1,55000,1.0
+2282,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+2284,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+2285,"Kilimani, Nairobi",3,3,75000,1.0
+2287,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+2288,"Westlands, Nairobi",2,2,100000,1.0
+2289,"Off Othaya road, Lavington, Nairobi",3,3,125000,1.0
+2290,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+2291,"Kileleshwa, Nairobi",3,4,70000,0.75
+2292,"Kileleshwa, Nairobi",3,4,70000,0.75
+2293,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+2294,"Kileleshwa, Nairobi",1,1,110000,1.0
+2295,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+2296,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+2298,"Muthaiga, Nairobi",4,5,300000,0.8
+2299,"Nyali, Mombasa",1,1,5000,1.0
+2300,"Westlands, Nairobi",4,2,165000,2.0
+2301,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+2302,"Shanzu, Mombasa",1,1,55000,1.0
+2303,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+2305,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+2306,"Kilimani, Nairobi",3,3,75000,1.0
+2308,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+2309,"Westlands, Nairobi",2,2,100000,1.0
+2310,"Jabavu court, Kilimani, Nairobi",3,3,80000,1.0
+2311,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+2312,"Kileleshwa, Nairobi",3,4,70000,0.75
+2313,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+2314,"Kileleshwa, Nairobi",1,1,110000,1.0
+2315,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+2316,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+2318,"Muthaiga, Nairobi",4,5,300000,0.8
+2319,"Nyali, Mombasa",1,1,5000,1.0
+2320,"Westlands, Nairobi",4,2,165000,2.0
+2321,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+2322,"Shanzu, Mombasa",1,1,55000,1.0
+2323,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+2325,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+2326,"Kilimani, Nairobi",3,3,75000,1.0
+2327,"Kilimani, Nairobi",3,3,75000,1.0
+2329,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+2330,"Westlands, Nairobi",2,2,100000,1.0
+2331,"Jabavu court, Kilimani, Nairobi",3,3,80000,1.0
+2332,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+2333,"Kileleshwa, Nairobi",3,4,70000,0.75
+2334,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+2335,"Kileleshwa, Nairobi",1,1,110000,1.0
+2336,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+2337,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+2339,"Muthaiga, Nairobi",4,5,300000,0.8
+2340,"Muthaiga, Nairobi",4,5,300000,0.8
+2341,"Nyali, Mombasa",1,1,5000,1.0
+2342,"Westlands, Nairobi",4,2,165000,2.0
+2343,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+2344,"Shanzu, Mombasa",1,1,55000,1.0
+2345,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+2347,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+2348,"Kilimani, Nairobi",3,3,75000,1.0
+2350,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+2351,"Westlands, Nairobi",2,2,100000,1.0
+2352,"Jabavu court, Kilimani, Nairobi",3,3,80000,1.0
+2354,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+2355,"Kileleshwa, Nairobi",3,4,70000,0.75
+2356,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+2357,"Kileleshwa, Nairobi",1,1,110000,1.0
+2358,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+2359,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+2361,"Muthaiga, Nairobi",4,5,300000,0.8
+2362,"Nyali, Mombasa",1,1,5000,1.0
+2363,"Westlands, Nairobi",4,2,165000,2.0
+2364,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+2365,"Shanzu, Mombasa",1,1,55000,1.0
+2366,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+2368,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+2369,"Kilimani, Nairobi",3,3,75000,1.0
+2371,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+2372,"Westlands, Nairobi",2,2,100000,1.0
+2373,"Jabavu court, Kilimani, Nairobi",3,3,80000,1.0
+2374,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+2375,"Kileleshwa, Nairobi",3,4,70000,0.75
+2376,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+2377,"Kileleshwa, Nairobi",1,1,110000,1.0
+2378,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+2379,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+2381,"Muthaiga, Nairobi",4,5,300000,0.8
+2382,"Nyali, Mombasa",1,1,5000,1.0
+2383,"Westlands, Nairobi",4,2,165000,2.0
+2384,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+2385,"Shanzu, Mombasa",1,1,55000,1.0
+2386,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+2388,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+2389,"Kilimani, Nairobi",3,3,75000,1.0
+2391,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+2392,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+2393,"Westlands, Nairobi",2,2,100000,1.0
+2394,"Jabavu court, Kilimani, Nairobi",3,3,80000,1.0
+2395,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+2396,"Kileleshwa, Nairobi",3,4,70000,0.75
+2397,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+2398,"Kileleshwa, Nairobi",1,1,110000,1.0
+2399,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+2400,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+2402,"Muthaiga, Nairobi",4,5,300000,0.8
+2403,"Nyali, Mombasa",1,1,5000,1.0
+2404,"Westlands, Nairobi",4,2,165000,2.0
+2405,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+2406,"Shanzu, Mombasa",1,1,55000,1.0
+2407,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+2409,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+2410,"Kilimani, Nairobi",3,3,75000,1.0
+2412,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+2413,"Kileleshwa, Nairobi",3,4,70000,0.75
+2414,"Westlands, Nairobi",2,2,100000,1.0
+2415,"Jabavu court, Kilimani, Nairobi",3,3,80000,1.0
+2416,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+2417,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+2418,"Kileleshwa, Nairobi",3,4,70000,0.75
+2419,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+2420,"Kileleshwa, Nairobi",1,1,110000,1.0
+2421,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+2422,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+2424,"Muthaiga, Nairobi",4,5,300000,0.8
+2425,"Nyali, Mombasa",1,1,5000,1.0
+2426,"Westlands, Nairobi",4,2,165000,2.0
+2427,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+2428,"Shanzu, Mombasa",1,1,55000,1.0
+2429,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+2431,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+2432,"Kilimani, Nairobi",3,3,75000,1.0
+2434,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+2435,"Westlands, Nairobi",2,2,100000,1.0
+2436,"Jabavu court, Kilimani, Nairobi",3,3,80000,1.0
+2437,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+2438,"Kileleshwa, Nairobi",3,4,70000,0.75
+2439,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+2440,"Kileleshwa, Nairobi",1,1,110000,1.0
+2441,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+2442,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+2444,"Muthaiga, Nairobi",4,5,300000,0.8
+2445,"Nyali, Mombasa",1,1,5000,1.0
+2446,"Westlands, Nairobi",4,2,165000,2.0
+2447,"Westlands, Nairobi",2,2,100000,1.0
+2448,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+2449,"Shanzu, Mombasa",1,1,55000,1.0
+2450,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+2452,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+2453,"Kilimani, Nairobi",3,3,75000,1.0
+2455,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+2456,"Westlands, Nairobi",2,2,100000,1.0
+2457,"Jabavu court, Kilimani, Nairobi",3,3,80000,1.0
+2458,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+2459,"Kileleshwa, Nairobi",3,4,70000,0.75
+2460,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+2461,"Kileleshwa, Nairobi",1,1,110000,1.0
+2462,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+2463,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+2465,"Muthaiga, Nairobi",4,5,300000,0.8
+2466,"Nyali, Mombasa",1,1,5000,1.0
+2467,"Westlands, Nairobi",4,2,165000,2.0
+2468,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+2469,"Shanzu, Mombasa",1,1,55000,1.0
+2470,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+2471,"Shanzu, Mombasa",1,1,55000,1.0
+2473,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+2474,"Kilimani, Nairobi",3,3,75000,1.0
+2476,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+2477,"Westlands, Nairobi",2,2,100000,1.0
+2478,"Jabavu court, Kilimani, Nairobi",3,3,80000,1.0
+2480,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+2481,"Kileleshwa, Nairobi",3,4,70000,0.75
+2482,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+2483,"Kileleshwa, Nairobi",1,1,110000,1.0
+2484,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+2485,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+2487,"Muthaiga, Nairobi",4,5,300000,0.8
+2488,"Nyali, Mombasa",1,1,5000,1.0
+2489,"Westlands, Nairobi",4,2,165000,2.0
+2490,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+2491,"Shanzu, Mombasa",1,1,55000,1.0
+2492,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+2494,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+2495,"Kilimani, Nairobi",3,3,75000,1.0
+2497,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+2498,"Westlands, Nairobi",2,2,100000,1.0
+2499,"Jabavu court, Kilimani, Nairobi",3,3,80000,1.0
+2500,"Riverside Dr Nairobi, Riverside, Nairobi",3,3,200000,1.0
+2501,"Kileleshwa, Nairobi",3,4,70000,0.75
+2502,"Links Rd Mombasa, Nyali, Mombasa",3,2,38000,1.5
+2503,"Kileleshwa, Nairobi",1,1,110000,1.0
+2504,"Thika Rd Nairobi, Kahawa Wendani, Nairobi",4,2,57750,2.0
+2505,"Kilimani, Nairobi",2,3,65000,0.6666666666666666
+2507,"Muthaiga, Nairobi",4,5,300000,0.8
+2508,"Nyali, Mombasa",1,1,5000,1.0
+2509,"Westlands, Nairobi",4,2,165000,2.0
+2510,"Kikuyu Town Bus park Kikuyu, Kikuyu, Kikuyu",3,3,55000,1.0
+2511,"Shanzu, Mombasa",1,1,55000,1.0
+2512,"Westlands downtown, Westlands, Nairobi",2,2,75000,1.0
+2514,"Kileleshwa Nairobi, Kileleshwa, Nairobi",2,2,55000,1.0
+2515,"Kilimani, Nairobi",3,3,75000,1.0
+2517,"Grevillea Grove Spring Valley, Spring Valley, Nairobi",2,3,65000,0.6666666666666666
+2518,"Muthaiga, Nairobi",4,5,300000,0.8
+2519,"Westlands, Nairobi",2,2,100000,1.0
